@@ -1,7 +1,7 @@
 class Person8 {
     name: string;
 
-    constructor(name: string = 'Willy Leung') {
+    constructor(name: string = 'Willy Leung666') {
         this.name = name;
     }
 
